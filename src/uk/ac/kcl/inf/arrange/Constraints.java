@@ -3,6 +3,10 @@ package uk.ac.kcl.inf.arrange;
 import choco.Choco;
 import choco.kernel.model.constraints.Constraint;
 
+/**
+ * The abstract class for a set of constraints, with functions for building
+ * that set.
+ */
 public abstract class Constraints {
     private final Constraints _parent;
     

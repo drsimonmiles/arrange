@@ -1,7 +1,7 @@
 package uk.ac.kcl.inf.arrange;
 
-import choco.kernel.model.variables.integer.IntegerVariable;
-
+/**
+ * Super-type of variables for use in expressing constraints.
+ */
 public interface Variable {
-
 }
